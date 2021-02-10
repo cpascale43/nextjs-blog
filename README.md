@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+##[Carrie Pascale](https://carriepascale.co)
+
+This is a blog built using [Next.js](https://nextjs.org/learn).
