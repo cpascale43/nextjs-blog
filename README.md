@@ -1,3 +1,6 @@
-##[Carrie Pascale](https://carriepascale.co)
+##NextJS Blog
 
-This is a blog built using [Next.js](https://nextjs.org/learn).
+[Carrie Pascale](https://carriepascale.co)
+
+This is a blog built using [Next.js](https://nextjs.org).
+
