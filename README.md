@@ -1,4 +1,4 @@
-##NextJS Blog
+### NextJS Blog
 
 [Carrie Pascale](https://carriepascale.co)
 
